@@ -1,0 +1,2 @@
+PanicHookInfo { payload: Any { .. }, location: Location { file: "easytier/src/easytier-core.rs", line: 877, col: 44 }, can_unwind: true, force_no_backtrace: false }
+Backtrace []
